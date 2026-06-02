@@ -150,7 +150,7 @@ export default function LandingPage() {
         },
       ]}
       avatarText="50,000+ Students Already Earning"
-      imageSrc="http://img.b2bpic.net/free-photo/smartphone-with-money-credit-card-wallet_23-2148080971.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/smartphone-with-money-credit-card-wallet_23-2148080971.jpg?_wi=1"
       imageAlt="Mobile Online Earning Concept"
       mediaAnimation="slide-up"
       marqueeItems={[
@@ -234,7 +234,7 @@ export default function LandingPage() {
               imageAlt: "Free Earning Apps",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/smartphone-with-money-credit-card-wallet_23-2148080971.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smartphone-with-money-credit-card-wallet_23-2148080971.jpg?_wi=2",
           imageAlt: "WhatsApp earning affiliate marketing",
         },
         {
